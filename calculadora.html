@@ -1,0 +1,1130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!-- Google Analytics 4 + Modo Consentimiento (RGPD) -->
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag("consent","default",{analytics_storage:"denied",ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",wait_for_update:500});
+if(localStorage.getItem("pp_cookies")==="si"){gtag("consent","update",{analytics_storage:"granted"});}
+gtag("js",new Date());gtag("config","G-NMD6YPS60T");
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NMD6YPS60T"></script>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora: cuánto cuesta pintar tu casa en Granada</title>
+    <meta name="description" content="Metes los metros y te sale el precio al momento, sin registrarte ni dejar datos. Si te cuadra, lo vemos en tu casa y te lo cierro por escrito.">
+    <link rel="canonical" href="https://pintareformas.es/calculadora.html">
+<link rel="alternate" type="text/markdown" href="https://pintareformas.es/md/calculadora.md">
+    <meta name="robots" content="index, follow">
+    <!-- Open Graph / Twitter -->
+    <meta property="og:title" content="Calculadora: cuánto cuesta pintar tu casa en Granada">
+    <meta property="og:description" content="Metes los metros y te sale el precio al momento, sin registrarte ni dejar datos. Si te cuadra, lo vemos en tu casa y te lo cierro por escrito.">
+    <meta property="og:url" content="https://pintareformas.es/calculadora.html">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://pintareformas.es/img/salon-pintura-blanca-vivienda-granada.jpg">
+    <meta property="og:locale" content="es_ES">
+    <meta property="og:site_name" content="PintaReformas">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Calculadora: cuánto cuesta pintar tu casa en Granada">
+    <meta name="twitter:description" content="Metes los metros y te sale el precio al momento, sin registrarte ni dejar datos. Si te cuadra, lo vemos en tu casa y te lo cierro por escrito.">
+    <meta name="twitter:image" content="https://pintareformas.es/img/salon-pintura-blanca-vivienda-granada.jpg">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"PintaReformas","url":"https://pintareformas.es","telephone":"+34633915898","email":"info@pintareformas.es","image":"https://pintareformas.es/img/salon-pintura-blanca-vivienda-granada.jpg","priceRange":"€€","address":{"@type":"PostalAddress","addressLocality":"Granada","addressRegion":"Andalucía","addressCountry":"ES"},"areaServed":["Granada","Málaga","Motril","Almuñécar","Nerja","Marbella","Torremolinos","Fuengirola","Benalmádena"],"contactPoint":{"@type":"ContactPoint","contactType":"customer service","telephone":"+34633915898","email":"info@pintareformas.es","areaServed":"ES","availableLanguage":["es","en","ar"]}}</script>
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://pintareformas.es/"},{"@type":"ListItem","position":2,"name":"Calculadora Precios","item":"https://pintareformas.es/calculadora.html"}]}
+    </script>
+    <!-- Font Awesome icons replaced with inline SVG -->
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --navy: #0D1B2A;
+            --orange: #FF9800;
+            --orange-dark: #E68900;
+            --green: #25D366;
+            --white: #fff;
+            --gray: #f5f7fa;
+            --shadow: 0 10px 30px rgba(0,0,0,0.12);
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            background: var(--gray);
+            color: #333;
+            min-height: 100vh;
+        }
+        /* NAVBAR */
+        .navbar {
+            background: var(--navy);
+            padding: 14px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            color: white;
+            font-weight: 800;
+            font-size: 1.3rem;
+            text-decoration: none;
+        }
+        .logo span { color: var(--orange); }
+        .btn-nav {
+            background: var(--orange);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        /* HERO */
+        .hero {
+            background: linear-gradient(135deg, var(--navy), #1a2838);
+            color: white;
+            text-align: center;
+            padding: 50px 20px 40px;
+        }
+        .hero h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+        }
+        .hero h1 span { color: var(--orange); }
+        .hero p {
+            color: rgba(255,255,255,0.85);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* CALCULATOR */
+        .calc-container {
+            max-width: 900px;
+            margin: -30px auto 50px;
+            padding: 0 20px;
+        }
+        .calc-card {
+            background: white;
+            border-radius: 16px;
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+        .calc-header {
+            background: var(--orange);
+            color: white;
+            padding: 20px 30px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .calc-header i { font-size: 1.8rem; }
+        .calc-header h2 { font-size: 1.3rem; }
+        .calc-header p { font-size: 0.88rem; opacity: 0.9; }
+        .calc-body { padding: 30px; }
+
+        /* SERVICE TABS */
+        .service-tabs {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        .tab-btn {
+            background: var(--gray);
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 14px 10px;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.25s;
+        }
+        .tab-btn:hover { border-color: var(--orange); background: #fff8f0; }
+        .tab-btn.active {
+            border-color: var(--orange);
+            background: linear-gradient(135deg, #fff8f0, #fff3e0);
+            color: var(--navy);
+        }
+        .tab-btn i {
+            font-size: 1.8rem;
+            color: var(--orange);
+            display: block;
+            margin-bottom: 6px;
+        }
+        .tab-btn span {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--navy);
+        }
+
+        /* FORM SECTIONS */
+        .section { display: none; }
+        .section.active { display: block; }
+        .section-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--navy);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--orange);
+        }
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+            margin-bottom: 20px;
+        }
+        .form-grp label {
+            display: block;
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: var(--navy);
+            margin-bottom: 6px;
+        }
+        .form-grp input, .form-grp select {
+            width: 100%;
+            padding: 12px 14px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+        .form-grp input:focus, .form-grp select:focus {
+            outline: none;
+            border-color: var(--orange);
+        }
+        .form-grp .hint {
+            font-size: 0.78rem;
+            color: #888;
+            margin-top: 4px;
+        }
+        .option-cards {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .option-card {
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .option-card:hover { border-color: var(--orange); }
+        .option-card.selected {
+            border-color: var(--orange);
+            background: #fff8f0;
+        }
+        .option-card input[type="radio"] { display: none; }
+        .option-card .opt-name {
+            font-weight: 700;
+            font-size: 0.95rem;
+            color: var(--navy);
+        }
+        .option-card .opt-price {
+            color: var(--orange);
+            font-weight: 600;
+            font-size: 0.85rem;
+            margin-top: 3px;
+        }
+        .option-card .opt-desc {
+            font-size: 0.78rem;
+            color: #666;
+            margin-top: 4px;
+        }
+
+        /* RESULT */
+        .result-box {
+            background: linear-gradient(135deg, var(--navy), #1a2838);
+            border-radius: 12px;
+            padding: 25px;
+            color: white;
+            margin-top: 25px;
+        }
+        .result-title {
+            font-size: 0.95rem;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 8px;
+        }
+        .result-range {
+            font-size: 2.2rem;
+            font-weight: 800;
+            color: var(--orange);
+            margin-bottom: 5px;
+        }
+        .result-note {
+            font-size: 0.82rem;
+            color: rgba(255,255,255,0.65);
+            margin-bottom: 20px;
+        }
+        /* CALCULATOR FLOAT BUTTON */
+        .calc-float {
+            position: fixed;
+            bottom: 100px;
+            right: 24px;
+            width: 62px;
+            height: 62px;
+            background: var(--navy);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.6rem;
+            z-index: 9999;
+            box-shadow: 0 4px 18px rgba(13,27,42,0.5);
+            text-decoration: none;
+            border: 3px solid var(--orange);
+        }
+        .calc-float:hover { transform: scale(1.1); color: white; }
+        .calc-float-label {
+            position: fixed;
+            bottom: 170px;
+            right: 18px;
+            background: var(--navy);
+            color: white;
+            font-size: 0.72rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 20px;
+            white-space: nowrap;
+            z-index: 9999;
+            border: 2px solid var(--orange);
+        }
+        .result-breakdown {
+            background: rgba(255,255,255,0.08);
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .breakdown-item {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.88rem;
+            padding: 4px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .breakdown-item:last-child { border-bottom: none; }
+        .breakdown-item .val { color: var(--orange); font-weight: 600; }
+
+        /* BUTTONS */
+        .btn-calc {
+            width: 100%;
+            padding: 16px;
+            background: var(--orange);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            margin-bottom: 12px;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        .btn-calc:hover { background: var(--orange-dark); transform: translateY(-2px); }
+        .btn-wa {
+            width: 100%;
+            padding: 16px;
+            background: var(--green);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            text-decoration: none;
+        }
+        .btn-wa:hover { background: #1da851; transform: translateY(-2px); color: white; }
+        .btn-wa i { font-size: 1.4rem; }
+        .wa-pulse {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            background: white;
+            border-radius: 50%;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(0.8); }
+        }
+        .or-divider {
+            text-align: center;
+            color: rgba(255,255,255,0.5);
+            margin: 10px 0;
+            font-size: 0.85rem;
+        }
+        /* === Email capture block === */
+        .email-capture {
+            margin-top: 20px;
+            background: rgba(255,255,255,0.08);
+            border: 1px dashed rgba(255,152,0,0.5);
+            border-radius: 10px;
+            padding: 18px;
+        }
+        .email-capture h4 {
+            color: #fff;
+            font-size: 1rem;
+            margin: 0 0 6px;
+            font-weight: 700;
+        }
+        .email-capture .ec-sub {
+            color: rgba(255,255,255,0.75);
+            font-size: 0.85rem;
+            margin-bottom: 14px;
+            line-height: 1.4;
+        }
+        .email-capture input {
+            width: 100%;
+            padding: 11px 13px;
+            margin-bottom: 9px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.1);
+            color: #fff;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            box-sizing: border-box;
+        }
+        .email-capture input::placeholder { color: rgba(255,255,255,0.5); }
+        .email-capture input:focus { outline: none; border-color: var(--orange); background: rgba(255,255,255,0.15); }
+        .btn-email {
+            width: 100%;
+            padding: 12px;
+            background: #fff;
+            color: var(--navy);
+            border: none;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .btn-email:hover { background: var(--orange); color: #fff; }
+        .btn-email:disabled { opacity: 0.6; cursor: wait; }
+        .ec-success {
+            display: none;
+            background: rgba(37,211,102,0.15);
+            border: 1px solid #25D366;
+            border-radius: 8px;
+            padding: 12px;
+            color: #fff;
+            font-size: 0.9rem;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .ec-success.show { display: block; }
+        .ec-rgpd{display:flex;gap:8px;align-items:flex-start;font-size:.82rem;line-height:1.4;margin:6px 0 10px;text-align:left;color:rgba(255,255,255,0.8)}
+        .email-capture .ec-rgpd input{width:auto;margin:3px 0 0;flex:none;accent-color:var(--orange)}
+        .ec-rgpd a{color:#fff;text-decoration:underline}
+        .ec-privacy {
+            font-size: 0.72rem;
+            color: rgba(255,255,255,0.55);
+            text-align: center;
+            margin-top: 8px;
+        }
+        .ec-privacy a { color: rgba(255,255,255,0.75); text-decoration: underline; }
+        .btn-tel {
+            width: 100%;
+            padding: 14px;
+            background: transparent;
+            color: white;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            text-decoration: none;
+        }
+        .btn-tel:hover { border-color: white; color: white; background: rgba(255,255,255,0.1); }
+
+        /* TRUST BADGES */
+        .trust-badges {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+        .badge {
+            text-align: center;
+            font-size: 0.82rem;
+            color: #666;
+        }
+        .badge i {
+            font-size: 1.5rem;
+            color: var(--orange);
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        /* FLOATING WA */
+        .wa-float {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 62px;
+            height: 62px;
+            background: var(--green);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.9rem;
+            z-index: 9999;
+            box-shadow: 0 4px 18px rgba(37,211,102,0.5);
+            text-decoration: none;
+        }
+        .wa-float::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: 50%;
+            background: var(--green);
+            animation: ripple 2s infinite;
+            z-index: -1;
+        }
+        @keyframes ripple {
+            0% { transform: scale(1); opacity: 1; }
+            100% { transform: scale(1.7); opacity: 0; }
+        }
+
+        @media (max-width: 600px) {
+            .service-tabs { grid-template-columns: repeat(2, 1fr); }
+            .form-grid { grid-template-columns: 1fr; }
+            .option-cards { grid-template-columns: 1fr; }
+            .hero h1 { font-size: 1.6rem; }
+            .result-range { font-size: 1.8rem; }
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar">
+    <a href="https://pintareformas.es/" class="logo" style="flex-direction:column;align-items:flex-start;gap:0;line-height:1;text-decoration:none;display:flex;">
+      <div style="display:flex;align-items:baseline;gap:0;">
+        <span style="font-family:'Arial Black',Arial,Impact,sans-serif;font-weight:900;font-size:2.4rem;color:#FF9800;line-height:1;">P</span>
+        <span style="font-family:'Arial Black',Arial,Impact,sans-serif;font-weight:900;font-size:1.6rem;color:#ffffff;line-height:1;">INTA</span>
+      </div>
+      <div style="height:1.5px;background:rgba(255,152,0,0.45);width:100%;margin:2px 0 2px;"></div>
+      <span style="display:block;font-family:Arial,sans-serif;font-weight:700;font-size:0.5rem;color:#FF9800;letter-spacing:6px;line-height:1;margin:0;padding:0;">REFORMAS</span>
+    </a>
+    <a href="tel:+34633915898" class="btn-nav" aria-label="Llamar al 633 915 898">📞 633 915 898</a>
+</nav>
+<main>
+<div class="hero">
+    <h1>Calcula el <span>Precio</span> de tu Reforma</h1>
+    <p>Obtén una estimación inmediata y gratis. Sin compromiso.</p>
+</div>
+
+<div class="calc-container">
+    <div class="calc-card">
+        <div class="calc-header">
+            🧮
+            <div>
+                <h2>Calculadora de Precios PintaReformas</h2>
+                <p>Selecciona el servicio, introduce los metros y calcula al instante</p>
+            </div>
+        </div>
+        <div class="calc-body">
+
+            <!-- SERVICE TABS -->
+            <div class="service-tabs">
+                <div class="tab-btn active" onclick="showSection('pintura-interior')">
+                    🖌️
+                    <span>Pintura Interior</span>
+                </div>
+                <div class="tab-btn" onclick="showSection('pintura-exterior')">
+                    🏢
+                    <span>Pintura Exterior</span>
+                </div>
+                <div class="tab-btn" onclick="showSection('tabique-yeso')">
+                    ⊞
+                    <span>Tabiques</span>
+                </div>
+                <div class="tab-btn" onclick="showSection('falso-techo')">
+                    📑
+                    <span>Falsos Techos</span>
+                </div>
+                <div class="tab-btn" onclick="showSection('reforma-cocina')">
+                    🍳
+                    <span>Reforma Cocina</span>
+                </div>
+                <div class="tab-btn" onclick="showSection('reforma-bano')">
+                    🚿
+                    <span>Reforma Baño</span>
+                </div>
+                <div class="tab-btn" onclick="showSection('papel-pintado')">
+                    🖼️
+                    <span>Papel Pintado</span>
+                </div>
+            </div>
+
+            <!-- PINTURA INTERIOR -->
+            <div class="section active" id="pintura-interior">
+                <div class="section-title">🎨 Pintura Interior</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Metros cuadrados (m²)</label>
+                        <input type="number" id="pi-metros" placeholder="Ej: 80" min="1" oninput="calcular()">
+                        <div class="hint">Total de paredes y techos a pintar</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>📑 Número de manos</label>
+                        <select id="pi-manos" onchange="calcular()">
+                            <option value="1">1 mano</option>
+                            <option value="2" selected>2 manos (recomendado)</option>
+                            <option value="3">3 manos (máxima calidad)</option>
+                        </select>
+                    </div>
+                </div>
+                <p style="font-weight:700;color:var(--navy);margin-bottom:12px;">Tipo de pintura:</p>
+                <div class="option-cards">
+                    <label class="option-card selected" onclick="selectOption(this, 'pi-tipo')">
+                        <input type="radio" name="pi-tipo" value="4" checked onchange="calcular()">
+                        <div class="opt-name">🏠 Plástica Básica</div>
+                        <div class="opt-price">Desde 4€/m²</div>
+                        <div class="opt-desc">Pintura estándar para paredes y techos</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pi-tipo')">
+                        <input type="radio" name="pi-tipo" value="7" onchange="calcular()">
+                        <div class="opt-name">✨ Plástica Premium</div>
+                        <div class="opt-price">Desde 7€/m²</div>
+                        <div class="opt-desc">Lavable, antihumedad, mayor durabilidad</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pi-tipo')">
+                        <input type="radio" name="pi-tipo" value="10" onchange="calcular()">
+                        <div class="opt-name">🎨 Decorativa</div>
+                        <div class="opt-price">Desde 10€/m²</div>
+                        <div class="opt-desc">Efectos decorativos, marmolados, texturas</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pi-tipo')">
+                        <input type="radio" name="pi-tipo" value="18" onchange="calcular()">
+                        <div class="opt-name">💎 Estuco Veneciano</div>
+                        <div class="opt-price">Desde 18€/m²</div>
+                        <div class="opt-desc">Acabado de lujo, brillo natural</div>
+                    </label>
+                </div>
+            </div>
+
+            <!-- PINTURA EXTERIOR -->
+            <div class="section" id="pintura-exterior">
+                <div class="section-title">🏢 Pintura Exterior / Fachadas</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Metros cuadrados (m²)</label>
+                        <input type="number" id="pe-metros" placeholder="Ej: 120" min="1" oninput="calcular()">
+                        <div class="hint">Superficie total de la fachada</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>🏠 Tipo de edificio</label>
+                        <select id="pe-tipo-edificio" onchange="calcular()">
+                            <option value="1">Vivienda / Chalet</option>
+                            <option value="1.2">Comunidad de vecinos</option>
+                            <option value="1.3">Local comercial</option>
+                        </select>
+                    </div>
+                </div>
+                <p style="font-weight:700;color:var(--navy);margin-bottom:12px;">Tipo de pintura:</p>
+                <div class="option-cards">
+                    <label class="option-card selected" onclick="selectOption(this, 'pe-tipo')">
+                        <input type="radio" name="pe-tipo" value="6" checked onchange="calcular()">
+                        <div class="opt-name">🏠 Pintura Acrílica</div>
+                        <div class="opt-price">Desde 6€/m²</div>
+                        <div class="opt-desc">Exterior estándar con protección UV</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pe-tipo')">
+                        <input type="radio" name="pe-tipo" value="9" onchange="calcular()">
+                        <div class="opt-name">🌊 Anti-salitre Costero</div>
+                        <div class="opt-price">Desde 9€/m²</div>
+                        <div class="opt-desc">Especial para zonas costeras, resistente al salitre</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pe-tipo')">
+                        <input type="radio" name="pe-tipo" value="12" onchange="calcular()">
+                        <div class="opt-name">💧 Impermeabilizante</div>
+                        <div class="opt-price">Desde 12€/m²</div>
+                        <div class="opt-desc">Máxima protección contra humedad y lluvia</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pe-tipo')">
+                        <input type="radio" name="pe-tipo" value="15" onchange="calcular()">
+                        <div class="opt-name">🔝 Elastomérica Premium</div>
+                        <div class="opt-price">Desde 15€/m²</div>
+                        <div class="opt-desc">Máxima durabilidad 10+ años, anti-grietas</div>
+                    </label>
+                </div>
+            </div>
+
+            <!-- TABIQUE DE PLACA DE YESO -->
+            <div class="section" id="tabique-yeso">
+                <div class="section-title">📦 Tabiques de placa de yeso laminado</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Metros cuadrados (m²)</label>
+                        <input type="number" id="pt-metros" placeholder="Ej: 20" min="1" oninput="calcular()">
+                        <div class="hint">Superficie del tabique a instalar</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>🖌️ ¿Incluye pintura?</label>
+                        <select id="pt-pintura" onchange="calcular()">
+                            <option value="0">No incluir pintura</option>
+                            <option value="4">Sí, pintura básica (+4€/m²)</option>
+                            <option value="7">Sí, pintura premium (+7€/m²)</option>
+                        </select>
+                    </div>
+                </div>
+                <p style="font-weight:700;color:var(--navy);margin-bottom:12px;">Tipo de tabique:</p>
+                <div class="option-cards">
+                    <label class="option-card selected" onclick="selectOption(this, 'pt-tipo')">
+                        <input type="radio" name="pt-tipo" value="25" checked onchange="calcular()">
+                        <div class="opt-name">📦 Simple</div>
+                        <div class="opt-price">Desde 25€/m²</div>
+                        <div class="opt-desc">Una placa por cara, uso estándar</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pt-tipo')">
+                        <input type="radio" name="pt-tipo" value="35" onchange="calcular()">
+                        <div class="opt-name">📦📦 Doble Placa</div>
+                        <div class="opt-price">Desde 35€/m²</div>
+                        <div class="opt-desc">Dos placas por cara, mayor resistencia</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pt-tipo')">
+                        <input type="radio" name="pt-tipo" value="40" onchange="calcular()">
+                        <div class="opt-name">🔇 Aislamiento Acústico</div>
+                        <div class="opt-price">Desde 40€/m²</div>
+                        <div class="opt-desc">Lana mineral en interior, reduce 40dB</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pt-tipo')">
+                        <input type="radio" name="pt-tipo" value="38" onchange="calcular()">
+                        <div class="opt-name">🌡️ Aislamiento Térmico</div>
+                        <div class="opt-price">Desde 38€/m²</div>
+                        <div class="opt-desc">Espuma de poliuretano, ahorra calefacción</div>
+                    </label>
+                </div>
+            </div>
+
+            <!-- FALSO TECHO -->
+            <div class="section" id="falso-techo">
+                <div class="section-title">💡 Falsos techos de placa de yeso</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Metros cuadrados (m²)</label>
+                        <input type="number" id="ft-metros" placeholder="Ej: 25" min="1" oninput="calcular()">
+                        <div class="hint">Superficie del techo a cubrir</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>💡 ¿Incluye iluminación LED?</label>
+                        <select id="ft-led" onchange="calcular()">
+                            <option value="0">No, sin LED</option>
+                            <option value="20">Sí, LED integrado (+20€/m²)</option>
+                            <option value="35">Sí, LED + domótica (+35€/m²)</option>
+                        </select>
+                    </div>
+                </div>
+                <p style="font-weight:700;color:var(--navy);margin-bottom:12px;">Tipo de falso techo:</p>
+                <div class="option-cards">
+                    <label class="option-card selected" onclick="selectOption(this, 'ft-tipo')">
+                        <input type="radio" name="ft-tipo" value="30" checked onchange="calcular()">
+                        <div class="opt-name">📐 Liso Básico</div>
+                        <div class="opt-price">Desde 30€/m²</div>
+                        <div class="opt-desc">Techo plano, acabado liso para pintar</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'ft-tipo')">
+                        <input type="radio" name="ft-tipo" value="40" onchange="calcular()">
+                        <div class="opt-name">🎨 Decorativo con Molduras</div>
+                        <div class="opt-price">Desde 40€/m²</div>
+                        <div class="opt-desc">Cornisas, molduras decorativas</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'ft-tipo')">
+                        <input type="radio" name="ft-tipo" value="50" onchange="calcular()">
+                        <div class="opt-name">🌀 Curvo / Diseño</div>
+                        <div class="opt-price">Desde 50€/m²</div>
+                        <div class="opt-desc">Formas curvas y diseños especiales</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'ft-tipo')">
+                        <input type="radio" name="ft-tipo" value="45" onchange="calcular()">
+                        <div class="opt-name">🔇 Con Aislamiento</div>
+                        <div class="opt-price">Desde 45€/m²</div>
+                        <div class="opt-desc">Acústico o térmico incluido</div>
+                    </label>
+                </div>
+            </div>
+
+            <!-- REFORMA COCINA -->
+            <div class="section" id="reforma-cocina">
+                <div class="section-title">🍳 Reforma Cocina (pintura + placas de yeso)</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Tamaño de la cocina (m²)</label>
+                        <input type="number" id="rc-metros" placeholder="Ej: 12" min="4" oninput="calcular()">
+                        <div class="hint">Metros cuadrados de superficie de la cocina</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>⭐ Nivel de reforma</label>
+                        <select id="rc-nivel" onchange="calcular()">
+                            <option value="basic">Básica (pintura + pequeños arreglos)</option>
+                            <option value="medium" selected>Media (placas de yeso + pintura + reforma)</option>
+                            <option value="premium">Premium (reforma integral completa)</option>
+                        </select>
+                    </div>
+                </div>
+                <div style="background:#fff3e0;border-left:4px solid var(--orange);padding:15px;border-radius:8px;margin-bottom:20px;">
+                    <strong>📋 Incluye:</strong> Placas de yeso + falso techo + pintura completa + mano de obra + materiales + limpieza
+                </div>
+            </div>
+
+            <!-- REFORMA BAÑO -->
+            <div class="section" id="reforma-bano">
+                <div class="section-title">🚿 Reforma Baño (pintura + placas de yeso)</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Tamaño del baño (m²)</label>
+                        <input type="number" id="rb-metros" placeholder="Ej: 6" min="2" oninput="calcular()">
+                        <div class="hint">Metros cuadrados del baño completo</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>⭐ Nivel de reforma</label>
+                        <select id="rb-nivel" onchange="calcular()">
+                            <option value="basic">Básica (pintura antihumedad)</option>
+                            <option value="medium" selected>Media (placas de yeso + pintura)</option>
+                            <option value="premium">Premium (reforma integral completa)</option>
+                        </select>
+                    </div>
+                </div>
+                <div style="background:#e8f5e9;border-left:4px solid #4CAF50;padding:15px;border-radius:8px;margin-bottom:20px;">
+                    <strong>🛡️ Incluye:</strong> Pintura antihumedad + placa hidrófuga + mano de obra + materiales
+                </div>
+            </div>
+
+            <!-- PAPEL PINTADO -->
+            <div class="section" id="papel-pintado">
+                <div class="section-title">🖼️ Papel Pintado</div>
+                <div class="form-grid">
+                    <div class="form-grp">
+                        <label>📐 Metros cuadrados (m²)</label>
+                        <input type="number" id="pp-metros" placeholder="Ej: 30" min="1" oninput="calcular()">
+                        <div class="hint">Superficie de paredes a empapelar</div>
+                    </div>
+                    <div class="form-grp">
+                        <label>🔧 ¿Retirar papel viejo?</label>
+                        <select id="pp-retirar" onchange="calcular()">
+                            <option value="0">No, paredes limpias</option>
+                            <option value="3">Sí, retirar papel existente (+3€/m²)</option>
+                        </select>
+                    </div>
+                </div>
+                <p style="font-weight:700;color:var(--navy);margin-bottom:12px;">Tipo de papel pintado:</p>
+                <div class="option-cards">
+                    <label class="option-card selected" onclick="selectOption(this, 'pp-tipo')">
+                        <input type="radio" name="pp-tipo" value="12" checked onchange="calcular()">
+                        <div class="opt-name">📄 Vinílico Básico</div>
+                        <div class="opt-price">Desde 12€/m²</div>
+                        <div class="opt-desc">Fácil de limpiar, resistente, liso o con textura</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pp-tipo')">
+                        <input type="radio" name="pp-tipo" value="18" onchange="calcular()">
+                        <div class="opt-name">🌿 No Tejido (Vlies)</div>
+                        <div class="opt-price">Desde 18€/m²</div>
+                        <div class="opt-desc">Alta calidad, fácil de retirar en el futuro</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pp-tipo')">
+                        <input type="radio" name="pp-tipo" value="25" onchange="calcular()">
+                        <div class="opt-name">🎨 Papel Decorativo Premium</div>
+                        <div class="opt-price">Desde 25€/m²</div>
+                        <div class="opt-desc">Diseños exclusivos, efecto 3D, colecciones especiales</div>
+                    </label>
+                    <label class="option-card" onclick="selectOption(this, 'pp-tipo')">
+                        <input type="radio" name="pp-tipo" value="35" onchange="calcular()">
+                        <div class="opt-name">💎 Papel de Lujo / Mural</div>
+                        <div class="opt-price">Desde 35€/m²</div>
+                        <div class="opt-desc">Murales fotográficos, texturas naturales, seda</div>
+                    </label>
+                </div>
+                <div style="background:#fff3e0;border-left:4px solid var(--orange);padding:15px;border-radius:8px;margin-bottom:20px;">
+                    <strong>📋 Incluye:</strong> Preparación de pared + adhesivo + colocación + limpieza final. Precio del papel NO incluido (variable según colección elegida).
+                </div>
+            </div>
+
+            <!-- RESULT BOX -->
+            <div class="result-box" id="result-box" style="display:none;">
+                <div class="result-title">💰 Estimación de precio:</div>
+                <div class="result-range" id="result-range">0€</div>
+                <div style="background:rgba(255,152,0,0.15);border-left:3px solid var(--orange);padding:10px 14px;border-radius:6px;margin-bottom:15px;">
+                    <strong style="color:var(--orange);">⚠️ PRECIOS ORIENTATIVOS</strong>
+                    <div style="font-size:0.8rem;color:rgba(255,255,255,0.75);margin-top:4px;">
+                        Estos precios son aproximados y pueden variar según el estado de las paredes, accesibilidad, materiales elegidos y características específicas del proyecto. El precio final se determina tras visita y presupuesto personalizado GRATUITO.
+                    </div>
+                </div>
+                <div class="result-breakdown" id="result-breakdown"></div>
+                <a class="btn-wa" id="wa-btn" href="#" target="_blank">
+                    💬
+                    <span class="wa-pulse"></span>
+                    Enviar presupuesto por WhatsApp
+                </a>
+                <div class="or-divider">— o llámanos directamente —</div>
+                <a class="btn-tel" href="tel:+34633915898">
+                    📞 633 915 898
+                </a>
+
+                <!-- Email capture block -->
+                <div class="email-capture">
+                    <h4>📧 ¿Prefieres recibirlo por email?</h4>
+                    <p class="ec-sub">Te mando el desglose completo y te paso a verlo en persona si quieres. Sin compromiso.</p>
+                    <form id="ec-form" autocomplete="on">
+                        <input type="text" id="ec-nombre" name="nombre" placeholder="Tu nombre" required autocomplete="name">
+                        <input type="email" id="ec-email" name="email" placeholder="Tu email" required autocomplete="email">
+                        <input type="tel" id="ec-tel" name="telefono" placeholder="Tu teléfono" required autocomplete="tel">
+                        <input type="hidden" id="ec-calculo" name="mensaje">
+                        <input type="hidden" id="ec-servicio" name="servicio">
+                        <input type="text" name="web" tabindex="-1" autocomplete="off" style="display:none" aria-hidden="true">
+                        <label class="ec-rgpd"><input type="checkbox" id="ec-rgpd" required> Acepto la <a href="/privacidad.html">política de privacidad</a> y el tratamiento de mis datos</label>
+                        <button type="submit" class="btn-email" id="ec-btn">Enviarme el desglose ▸</button>
+                    </form>
+                    <div class="ec-success" id="ec-success">
+                        ✅ ¡Recibido! Te escribo en menos de 24h con el desglose y un PDF.
+                    </div>
+                    <p class="ec-privacy">Solo uso tus datos para mandarte este presupuesto. <a href="/privacidad.html">Política de privacidad</a></p>
+                </div>
+            </div>
+
+            <!-- CALCULATE BUTTON -->
+            <button class="btn-calc" onclick="calcular(true)" style="margin-top:20px;">
+                🧮 CALCULAR PRECIO AHORA
+            </button>
+
+        </div>
+    </div>
+
+    <!-- TRUST BADGES -->
+    <div class="trust-badges">
+        <div class="badge">🛡️Precio cerrado por escrito</div>
+        <div class="badge">🏷️Presupuesto gratis</div>
+        <div class="badge">🎨Pintando desde 2012</div>
+        <div class="badge">⏱️Respuesta &lt;5 min</div>
+        <div class="badge">🚚Desplazamiento gratis</div>
+    </div>
+</div>
+
+</main>
+<a href="https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis" target="_blank" class="wa-float" aria-label="WhatsApp">
+    💬
+</a>
+<div class="calc-float-label">🧮 Calcular Precio</div>
+<a href="https://pintareformas.es/calculadora.html" class="calc-float" aria-label="Calculadora de precios">
+    🧮
+</a>
+
+<script>
+let currentSection = 'pintura-interior';
+
+function showSection(id) {
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    event.currentTarget.classList.add('active');
+    currentSection = id;
+    document.getElementById('result-box').style.display = 'none';
+    calcular();
+}
+
+function selectOption(el, name) {
+    document.querySelectorAll(`[onclick*="${name}"]`).forEach(o => o.classList.remove('selected'));
+    el.classList.add('selected');
+    el.querySelector('input').checked = true;
+    calcular();
+}
+
+function calcular(forced = false) {
+    let min = 0, max = 0, breakdown = [];
+    let metros = 0;
+
+    if (currentSection === 'pintura-interior') {
+        metros = parseFloat(document.getElementById('pi-metros').value) || 0;
+        const manos = parseFloat(document.getElementById('pi-manos').value);
+        const tipo = parseFloat(document.querySelector('input[name="pi-tipo"]:checked')?.value || 4);
+        const precioBase = tipo * (manos === 1 ? 0.8 : manos === 3 ? 1.2 : 1);
+        min = Math.round(metros * precioBase);
+        max = Math.round(metros * precioBase * 1.3);
+        breakdown = [
+            {label: `Pintura (${metros}m² x ${precioBase.toFixed(1)}€/m²)`, val: `${min}€ - ${max}€`},
+            {label: 'Imprimación incluida', val: '✅'},
+            {label: 'Mano de obra incluida', val: '✅'},
+            {label: 'Limpieza final', val: '✅'}
+        ];
+    } else if (currentSection === 'pintura-exterior') {
+        metros = parseFloat(document.getElementById('pe-metros').value) || 0;
+        const tipo = parseFloat(document.querySelector('input[name="pe-tipo"]:checked')?.value || 6);
+        const edificio = parseFloat(document.getElementById('pe-tipo-edificio').value);
+        min = Math.round(metros * tipo * edificio);
+        max = Math.round(metros * tipo * edificio * 1.35);
+        breakdown = [
+            {label: `Pintura exterior (${metros}m² x ${tipo}€/m²)`, val: `${min}€ - ${max}€`},
+            {label: 'Protección UV incluida', val: '✅'},
+            {label: 'Andamio si necesario', val: 'Incluido'},
+            {label: 'Limpieza previa fachada', val: '✅'}
+        ];
+    } else if (currentSection === 'tabique-yeso') {
+        metros = parseFloat(document.getElementById('pt-metros').value) || 0;
+        const tipo = parseFloat(document.querySelector('input[name="pt-tipo"]:checked')?.value || 25);
+        const pintura = parseFloat(document.getElementById('pt-pintura').value);
+        const total = tipo + pintura;
+        min = Math.round(metros * total);
+        max = Math.round(metros * total * 1.25);
+        breakdown = [
+            {label: `Tabique de placa de yeso (${metros}m² x ${tipo}€/m²)`, val: `${Math.round(metros*tipo)}€`},
+            {label: pintura > 0 ? `Pintura incluida (${metros}m² x ${pintura}€/m²)` : 'Pintura no incluida', val: pintura > 0 ? `${Math.round(metros*pintura)}€` : '—'},
+            {label: 'Perfilería y tornillería', val: '✅'},
+            {label: 'Enlucido y acabado', val: '✅'}
+        ];
+    } else if (currentSection === 'falso-techo') {
+        metros = parseFloat(document.getElementById('ft-metros').value) || 0;
+        const tipo = parseFloat(document.querySelector('input[name="ft-tipo"]:checked')?.value || 30);
+        const led = parseFloat(document.getElementById('ft-led').value);
+        const total = tipo + led;
+        min = Math.round(metros * total);
+        max = Math.round(metros * total * 1.3);
+        breakdown = [
+            {label: `Falso techo (${metros}m² x ${tipo}€/m²)`, val: `${Math.round(metros*tipo)}€`},
+            {label: led > 0 ? `Iluminación LED (${metros}m² x ${led}€/m²)` : 'Sin LED', val: led > 0 ? `${Math.round(metros*led)}€` : '—'},
+            {label: 'Estructura y anclajes', val: '✅'},
+            {label: 'Conexión eléctrica LED', val: led > 0 ? '✅' : '—'}
+        ];
+    } else if (currentSection === 'reforma-cocina') {
+        metros = parseFloat(document.getElementById('rc-metros').value) || 0;
+        const nivel = document.getElementById('rc-nivel').value;
+        const precios = {basic: [80, 110], medium: [130, 180], premium: [250, 380]};
+        const [pMin, pMax] = precios[nivel];
+        min = Math.round(metros * pMin);
+        max = Math.round(metros * pMax);
+        breakdown = [
+            {label: `Reforma cocina ${metros}m² (${nivel === 'basic' ? 'básica' : nivel === 'medium' ? 'media' : 'premium'})`, val: `${min}€ - ${max}€`},
+            {label: 'Placas de yeso + falso techo', val: '✅'},
+            {label: 'Pintura completa', val: '✅'},
+            {label: 'Mano de obra y materiales', val: '✅'}
+        ];
+    } else if (currentSection === 'reforma-bano') {
+        metros = parseFloat(document.getElementById('rb-metros').value) || 0;
+        const nivel = document.getElementById('rb-nivel').value;
+        const precios = {basic: [100, 150], medium: [180, 280], premium: [350, 500]};
+        const [pMin, pMax] = precios[nivel];
+        min = Math.round(metros * pMin);
+        max = Math.round(metros * pMax);
+        breakdown = [
+            {label: `Reforma baño ${metros}m² (${nivel === 'basic' ? 'básica' : nivel === 'medium' ? 'media' : 'premium'})`, val: `${min}€ - ${max}€`},
+            {label: 'Placa hidrófuga', val: '✅'},
+            {label: 'Pintura antihumedad', val: '✅'},
+            {label: 'Mano de obra y materiales', val: '✅'}
+        ];
+    } else if (currentSection === 'papel-pintado') {
+        metros = parseFloat(document.getElementById('pp-metros').value) || 0;
+        const tipo = parseFloat(document.querySelector('input[name="pp-tipo"]:checked')?.value || 12);
+        const retirar = parseFloat(document.getElementById('pp-retirar').value);
+        const total = tipo + retirar;
+        min = Math.round(metros * total);
+        max = Math.round(metros * total * 1.3);
+        breakdown = [
+            {label: `Mano de obra (${metros}m² x ${tipo}€/m²)`, val: `${Math.round(metros*tipo)}€`},
+            {label: retirar > 0 ? `Retirar papel viejo (${metros}m² x ${retirar}€/m²)` : 'Sin papel viejo', val: retirar > 0 ? `${Math.round(metros*retirar)}€` : '—'},
+            {label: 'Papel pintado (no incluido)', val: 'Variable'},
+            {label: 'Adhesivo y preparación', val: '✅'}
+        ];
+    }
+
+    if (metros > 0 || forced) {
+        const box = document.getElementById('result-box');
+        box.style.display = 'block';
+
+        if (metros === 0) {
+            document.getElementById('result-range').textContent = 'Introduce los metros para calcular';
+            document.getElementById('result-breakdown').innerHTML = '';
+        } else {
+            document.getElementById('result-range').textContent = `${min.toLocaleString('es-ES')}€ – ${max.toLocaleString('es-ES')}€`;
+            document.getElementById('result-breakdown').innerHTML = breakdown.map(b =>
+                `<div class="breakdown-item"><span>${b.label}</span><span class="val">${b.val}</span></div>`
+            ).join('');
+        }
+
+        // WhatsApp message
+        const serviceName = {
+            'pintura-interior': 'Pintura Interior',
+            'pintura-exterior': 'Pintura Exterior/Fachada',
+            'tabique-yeso': 'Tabique de placa de yeso',
+            'falso-techo': 'Falso techo de placa de yeso',
+            'reforma-cocina': 'Reforma de Cocina',
+            'reforma-bano': 'Reforma de Baño',
+            'papel-pintado': 'Papel Pintado'
+        }[currentSection];
+
+        const msg = metros > 0
+            ? `Hola PintaReformas! He calculado el precio con vuestra calculadora:%0A%0A📋 *Servicio:* ${serviceName}%0A📐 *Superficie:* ${metros}m²%0A💰 *Estimación:* ${min.toLocaleString('es-ES')}€ - ${max.toLocaleString('es-ES')}€%0A%0A¿Podéis darme un presupuesto definitivo?`
+            : `Hola PintaReformas! Estoy interesado en *${serviceName}*. ¿Podéis darme un presupuesto gratis?`;
+
+        document.getElementById('wa-btn').href = `https://wa.me/34633915898?text=${msg}`;
+
+        // Rellenar campos ocultos del formulario de email
+        const calcResumen = metros > 0
+            ? `${serviceName} · ${metros}m² · Estimación ${min.toLocaleString('es-ES')}€ - ${max.toLocaleString('es-ES')}€`
+            : `${serviceName} (sin metros)`;
+        document.getElementById('ec-calculo').value = calcResumen;
+        document.getElementById('ec-servicio').value = serviceName;
+
+        box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+}
+
+// === Captura de email: va a enviar.php, el mismo buzón que el formulario de la portada ===
+document.getElementById('ec-form').addEventListener('submit', function(e){
+    e.preventDefault();
+    var btn = document.getElementById('ec-btn');
+    var ok = document.getElementById('ec-success');
+    var form = this;
+    if (!document.getElementById('ec-calculo').value) {
+        document.getElementById('ec-calculo').value = 'Calculadora: ' + (document.getElementById('ec-servicio').value || 'sin calcular');
+    }
+    if (!document.getElementById('ec-servicio').value) {
+        document.getElementById('ec-servicio').value = 'Calculadora';
+    }
+    btn.disabled = true;
+    btn.textContent = 'Enviando...';
+
+    fetch('/enviar.php', {
+        method: 'POST',
+        headers: { 'Accept': 'application/json' },
+        body: new FormData(form)
+    })
+    .then(function(r){ return r.json(); })
+    .then(function(res){
+        if (res.ok) {
+            if (typeof gtag === 'function') gtag('event', 'form_calculadora');
+            form.style.display = 'none';
+            ok.classList.add('show');
+        } else {
+            throw new Error(res.error || 'envio fallido');
+        }
+    })
+    .catch(function(){
+        // Respaldo si el servidor falla: abrir WhatsApp con los datos
+        btn.disabled = false;
+        btn.textContent = 'Reintentar ▸';
+        var v = function(id){ return encodeURIComponent(document.getElementById(id).value); };
+        var txt = 'Hola PintaReformas, quiero el desglose de la calculadora:%0A%0A*Nombre:* ' + v('ec-nombre') + '%0A*Tel:* ' + v('ec-tel') + '%0A*Email:* ' + v('ec-email') + '%0A*Cálculo:* ' + v('ec-calculo');
+        window.open('https://wa.me/34633915898?text=' + txt, '_blank');
+    });
+});
+</script>
+<div style="background:#0D1B2A;padding:14px;text-align:center;font-size:.85rem"><a href="https://pintareformas.es/privacidad.html" style="color:#FF9800;text-decoration:none">Política de Privacidad</a> <span style="color:rgba(255,255,255,.5)">·</span> <a href="https://pintareformas.es/aviso-legal.html" style="color:#FF9800;text-decoration:none">Aviso Legal</a> · <a href="https://pintareformas.es/servicios.html" style="color:#FF9800">Servicios</a> · <a href="https://pintareformas.es/contacto.html" style="color:#FF9800">Contacto</a></div>
+<script>document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a");if(!a)return;var h=a.getAttribute("href")||"";window.dataLayer=window.dataLayer||[];if(h.indexOf("wa.me")>-1){gtag("event","click_whatsapp");}else if(h.indexOf("tel:")===0){gtag("event","click_llamada");}});</script>
+<div id="ppCookies" style="display:none;position:fixed;bottom:16px;left:16px;right:16px;max-width:430px;background:#0D1B2A;color:#fff;padding:18px;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.35);z-index:99999;font-size:.9rem;line-height:1.5">🍪 Usamos cookies solo para saber cuánta gente visita la web y mejorarla. Nada de publicidad. <a href="https://pintareformas.es/privacidad.html" style="color:#FF9800">Más info</a><div style="margin-top:12px;display:flex;gap:10px"><button onclick="ppCookies(true)" style="flex:1;background:#FF9800;border:none;color:#0D1B2A;font-weight:700;padding:10px;border-radius:8px;cursor:pointer;font-size:.9rem">Aceptar</button><button onclick="ppCookies(false)" style="flex:1;background:transparent;border:1px solid rgba(255,255,255,.4);color:#fff;padding:10px;border-radius:8px;cursor:pointer;font-size:.9rem">Rechazar</button></div></div>
+<script>function ppCookies(ok){localStorage.setItem("pp_cookies",ok?"si":"no");document.getElementById("ppCookies").style.display="none";if(ok){gtag("consent","update",{analytics_storage:"granted"});}}
+if(!localStorage.getItem("pp_cookies")){document.getElementById("ppCookies").style.display="block";}</script>
+</body>
+</html>

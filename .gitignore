@@ -1,0 +1,10 @@
+# Archivos internos de trabajo: NO van al repo público (misma lista que el despliegue a Hostinger)
+/*.md
+!/README.md
+seo-local/
+.claude/
+gmb-*.txt
+performance-log.txt
+HTACCESS-PARA-DOMINIO-VIEJO.txt
+.indexnow-key
+.DS_Store
