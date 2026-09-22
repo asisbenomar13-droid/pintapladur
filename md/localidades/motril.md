@@ -156,9 +156,23 @@ Bajo a toda la Costa Tropical y llego hasta la costa de Málaga. Si tienes otra 
 
 No hago fontanería ni instalación eléctrica de obra nueva, no toco estructura y no trabajo colgado de andamio en edificios altos. Tampoco pinto encima de una humedad sin tratarla aunque me lo pidan con prisa: eso vuelve a salir a los pocos meses y el que queda mal soy yo.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Llevo desde 2012 trabajando en Motril y la Costa Tropical pero no empecé a pedir reseñas hasta hace poco — prefiero decírtelo así antes que ponerte números que no son reales. Cuando terminemos tu obra, si te ha parecido bien, te pediré que dejes la tuya en [Google](https://www.google.com/search?q=PintaReformas+Granada). Y si no, también, para saber qué tengo que mejorar. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Quiero agradecerles por la excelente reforma del baño. El trabajo quedó perfecto, con mucha profesionalidad, atención a los detalles y acabados de gran calidad. Cumplieron con los plazos y siempre fueron muy amables y responsables. Estoy muy satisfecho con el resultado final y los recomiendo totalmente."
+
+Ahmed Ayad Reseña publicada en Google
+
+★★★★★
+
+"Contento con la reforma que Asis me ha hecho en mi casa, un profesional de los que ya no quedan y con precios competentes!!"
+
+Antonio Delgado Muñoz Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 ## Lo que más me preguntan en Motril
 

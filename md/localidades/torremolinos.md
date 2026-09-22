@@ -159,9 +159,23 @@ Ninguno, estoy hecho a ello. Respeto los horarios de ruido, protejo el ascensor 
 
 Lo hago yo. Tabique simple desde 25 €/m², doble desde 35 €/m², falso techo básico desde 30 €/m² y con LED desde 50 €/m². La ventaja de que lo haga la misma persona es que no hay discusión sobre quién dejó mal el remate entre el techo y la pared: soy yo y lo arreglo yo.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Llevo desde 2012 currando pero no empecé a pedir reseñas hasta hace poco — prefiero decírtelo así antes que ponerte estrellas de relleno. Cuando terminemos tu obra, si te ha parecido bien, te pediré que dejes la tuya en [Google](https://www.google.com/search?q=PintaReformas+Granada). Y si no, también, para saber qué mejorar.
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Todo muy profesional y un trabajo perfecto, es muy detallista y minucioso."
+
+Alberto Correa Reseña publicada en Google
+
+★★★★★
+
+"Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"
+
+Jesús Mingorance Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 PintaReformas © 2026 | Pintura, tabiques y falsos techos en Torremolinos
 [Volver a inicio](https://pintareformas.es/) | [Blog](https://pintareformas.es/placas-yeso-cocinas.html) | [FAQ](https://pintareformas.es/preguntas-pintor-granada.html)

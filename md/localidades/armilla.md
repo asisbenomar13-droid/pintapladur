@@ -97,6 +97,24 @@ Prefiero decirlo antes que hacerte perder el tiempo. No hago instalación eléct
 
 Falso techo de placas de yeso en obra — la perfilería antes de placar y dejar el hueco de los focos
 
+## Lo que dicen de mí en Google
+
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Contento con la reforma que Asis me ha hecho en mi casa, un profesional de los que ya no quedan y con precios competentes!!"
+
+Antonio Delgado Muñoz Reseña publicada en Google
+
+★★★★★
+
+"Todo muy profesional y un trabajo perfecto, es muy detallista y minucioso."
+
+Alberto Correa Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
+
 Preguntas frecuentes
 
 ## Lo que me preguntan en Armilla

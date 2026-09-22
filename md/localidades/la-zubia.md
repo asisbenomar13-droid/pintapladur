@@ -101,6 +101,24 @@ La cercanía importa sobre todo por lo de después. Si al año se marca una junt
 
 En casas unifamiliares me piden de todo, así que lo aclaro. No subo a tejados ni hago cubiertas. No impermeabilizo terrazas ni azoteas. No hago piscinas, ni jardinería, ni cerrajería. No hago electricidad ni fontanería, aunque en los tabiques dejo los pasos preparados. Y no toco estructura. Lo mío es pintura, acabados decorativos y tabiquería seca: si tu obra necesita otra cosa, te lo digo por teléfono y no te hago perder una tarde.
 
+## Lo que dicen de mí en Google
+
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Un placer trabajar con este equipo, me lo recomendaron y quedé muy satisfecho. Al principio solo necesitaba que arreglaran las aristas de las paredes de un piso antiguo que compré para dejarlas totalmente rectas. Al ver la eficiencia, lo económico que trabajan, y lo limpios que son, les pedí que me hicieran presupuesto para pintar el piso. Al final decidí pintarlo con ellos y el trabajo fue de 10. Un placer haber trabajado con ellos, muy recomendable."
+
+Pablo Lizaran Reseña publicada en Google
+
+★★★★★
+
+"Quiero agradecerles por la excelente reforma del baño. El trabajo quedó perfecto, con mucha profesionalidad, atención a los detalles y acabados de gran calidad. Cumplieron con los plazos y siempre fueron muy amables y responsables. Estoy muy satisfecho con el resultado final y los recomiendo totalmente."
+
+Ahmed Ayad Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
+
 Preguntas frecuentes
 
 ## Lo que me preguntan en las casas de La Zubia

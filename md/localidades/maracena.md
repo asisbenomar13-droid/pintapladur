@@ -97,6 +97,24 @@ Lo mismo vale para Albolote, Peligros, Pulianas y Atarfe, que están al lado. Y 
 
 Para no marearte: no hago electricidad ni fontanería — dejo pasos y huecos preparados en el tabique, pero conecta un electricista. No toco muros de carga ni nada de estructura. No trabajo por horas sueltas ni voy a hacer un repaso de media hora; presupuesto trabajos completos. Y no doy el precio en firme por WhatsApp sin haber visto la casa: te oriento por teléfono encantado, pero el número cerrado sale de medir. Si me pides algo de esta lista te lo digo en la primera llamada y, si puedo, te digo a quién llamar.
 
+## Lo que dicen de mí en Google
+
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"
+
+Jesús Mingorance Reseña publicada en Google
+
+★★★★★
+
+"Buen pintor, es muy profesional y puntual."
+
+Mohamed Elmekri Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
+
 Preguntas frecuentes
 
 ## Dudas que me plantean en Maracena

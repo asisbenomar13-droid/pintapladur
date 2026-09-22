@@ -162,9 +162,23 @@ Bastante. En la costa mandan el salitre y la humedad, y la pintura barata se lev
 
 Puede que sí. Estas doce zonas son donde más obra tengo, pero me muevo por la provincia de Granada entera y por la Costa del Sol. Llámame, me dices dónde es y qué necesitas, y te contesto en el momento si llego o no.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Te lo digo tal cual: llevo desde 2012 trabajando pero no empecé a pedir reseñas hasta hace poco, así que todavía tengo muy pocas en el [perfil de Google](https://www.google.com/search?q=PintaReformas+Granada). Prefiero decírtelo a la cara que ponerte estrellas y números que no son reales. Cuando terminemos tu obra te pediré la tuya — y si algo no te ha gustado, también, que para eso sirve.
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"
+
+Jesús Mingorance Reseña publicada en Google
+
+★★★★★
+
+"Contento con la reforma que Asis me ha hecho en mi casa, un profesional de los que ya no quedan y con precios competentes!!"
+
+Antonio Delgado Muñoz Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 PintaReformas © 2026 | Pintura, tabiques y falsos techos en Granada y la Costa del Sol
 [Volver a inicio](https://pintareformas.es/) | [Blog](https://pintareformas.es/placas-yeso-cocinas.html) | [FAQ](https://pintareformas.es/preguntas-pintor-granada.html)

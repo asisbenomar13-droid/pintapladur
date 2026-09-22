@@ -189,9 +189,23 @@ Si tienes más de una propiedad por la zona, me muevo por toda la costa: [pintor
 
 No hago fontanería ni instalación eléctrica de obra nueva, no toco estructura y no trabajo colgado de andamio en edificios altos. Tampoco hago el apaño de pintar por encima de una humedad sin tratarla: si me lo pides, te diré que no. Prefiero perder ese trabajo que dejarte algo que reviente en un año con mi nombre detrás.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Llevo desde 2012 trabajando en Almuñécar y la Costa Tropical pero no empecé a pedir reseñas hasta hace poco. Prefiero decírtelo así antes que ponerte estrellas que no son reales. Cuando terminemos tu obra, si te ha parecido bien, te pediré que dejes la tuya en [Google](https://www.google.com/search?q=PintaReformas+Granada). Y si no, también, para saber qué puedo mejorar. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Un placer trabajar con este equipo, me lo recomendaron y quedé muy satisfecho. Al principio solo necesitaba que arreglaran las aristas de las paredes de un piso antiguo que compré para dejarlas totalmente rectas. Al ver la eficiencia, lo económico que trabajan, y lo limpios que son, les pedí que me hicieran presupuesto para pintar el piso. Al final decidí pintarlo con ellos y el trabajo fue de 10. Un placer haber trabajado con ellos, muy recomendable."
+
+Pablo Lizaran Reseña publicada en Google
+
+★★★★★
+
+"Todo muy profesional y un trabajo perfecto, es muy detallista y minucioso."
+
+Alberto Correa Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 ## Lo que más me preguntan en Almuñécar
 

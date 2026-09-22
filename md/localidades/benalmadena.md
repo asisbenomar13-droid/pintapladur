@@ -155,9 +155,23 @@ Me muevo por toda la Costa del Sol. Si tienes otra propiedad cerca, mira [pintor
 
 No hago fontanería ni electricidad de obra nueva, no toco estructura y no trabajo colgado de andamio en edificios altos. Tampoco pinto una terraza sin sanearla antes solo porque haya prisa: sé que quedaría bien una semana, y al año siguiente estarías llamando a otro por mi culpa.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Llevo desde 2012 trabajando pero no empecé a pedir reseñas hasta hace poco, así que todavía no tengo muchas en [Google](https://www.google.com/search?q=PintaReformas+Granada). Prefiero ser honesto a ponerte estrellas que no son reales. Si hacemos obra juntos y te ha parecido bien, te pediré que dejes la tuya — y si no, también, para saber qué puedo mejorar.
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Un placer trabajar con este equipo, me lo recomendaron y quedé muy satisfecho. Al principio solo necesitaba que arreglaran las aristas de las paredes de un piso antiguo que compré para dejarlas totalmente rectas. Al ver la eficiencia, lo económico que trabajan, y lo limpios que son, les pedí que me hicieran presupuesto para pintar el piso. Al final decidí pintarlo con ellos y el trabajo fue de 10. Un placer haber trabajado con ellos, muy recomendable."
+
+Pablo Lizaran Reseña publicada en Google
+
+★★★★★
+
+"Buen pintor, es muy profesional y puntual."
+
+Mohamed Elmekri Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 PintaReformas © 2026 | Pintura, tabiques y falsos techos en Benalmádena
 [Volver a inicio](https://pintareformas.es/) | [Blog](https://pintareformas.es/placas-yeso-cocinas.html) | [FAQ](https://pintareformas.es/preguntas-pintor-granada.html)

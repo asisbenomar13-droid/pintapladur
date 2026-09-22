@@ -177,9 +177,23 @@ Me muevo por toda la Costa del Sol occidental. Si tienes otra propiedad por la z
 
 No hago fontanería ni electricidad de obra nueva, no toco estructura y no trabajo en fachada con andamio colgante en edificios de muchas plantas. Tampoco pinto encima de una humedad sin tratarla, aunque me lo pidas para salir del paso antes de una reserva: eso vuelve a salir y el que queda mal soy yo.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Llevo desde 2012 trabajando pero no empecé a pedir reseñas hasta hace poco — prefiero decírtelo así antes que ponerte números que no son reales. Cuando terminemos tu obra, si te ha parecido bien, te pediré que dejes la tuya en [Google](https://www.google.com/search?q=PintaReformas+Granada). Y si no, también, para mejorar. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Actually this worker got me a nice job, clear and beautiful — I mean professional. He can be relied on."
+
+Abdoo Dodo Reseña publicada en Google
+
+★★★★★
+
+"Contento con la reforma que Asis me ha hecho en mi casa, un profesional de los que ya no quedan y con precios competentes!!"
+
+Antonio Delgado Muñoz Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 ## Lo que más me preguntan en Fuengirola
 

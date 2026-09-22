@@ -161,9 +161,23 @@ Me muevo por toda la Costa del Sol occidental. Si tienes otra propiedad por la z
 
 No hago fontanería ni electricidad de obra nueva, no toco estructura y no trabajo colgado de andamio en edificios altos. Tampoco hago microcemento a precio de pintura: si el presupuesto no da para prepararlo bien, prefiero decirte que no y proponerte otra cosa que sí aguante.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Te voy a ser honesto: estoy empezando a juntar reseñas en mi [perfil de Google](https://www.google.com/search?q=PintaReformas+Granada). Llevo desde 2012 currando pero no me dediqué a pedirlas hasta ahora, así que prefiero decírtelo a la cara. Cuando terminemos tu obra, te pediré que dejes la tuya si te ha parecido bien — y si no, también, para que sepa qué tengo que mejorar.
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Actually this worker got me a nice job, clear and beautiful — I mean professional. He can be relied on."
+
+Abdoo Dodo Reseña publicada en Google
+
+★★★★★
+
+"Quiero agradecerles por la excelente reforma del baño. El trabajo quedó perfecto, con mucha profesionalidad, atención a los detalles y acabados de gran calidad. Cumplieron con los plazos y siempre fueron muy amables y responsables. Estoy muy satisfecho con el resultado final y los recomiendo totalmente."
+
+Ahmed Ayad Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 PintaReformas © 2026 | Pintura, tabiques y falsos techos en Marbella
 [Volver a inicio](https://pintareformas.es/) | [Blog](https://pintareformas.es/placas-yeso-cocinas.html) | [FAQ](https://pintareformas.es/preguntas-pintor-granada.html)

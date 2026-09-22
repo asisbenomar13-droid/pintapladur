@@ -157,9 +157,23 @@ La pintura interior empieza en 4 €/m² y la premium en 7–9 €/m². Sobre es
 
 Las dos cosas, y por eso me llaman: tabique simple desde 25 €/m², doble desde 35 €/m², falso techo básico desde 30 €/m² y con LED desde 50 €/m². Al hacerlo yo todo no tienes que coordinar a un montador y a un pintor que luego se echan la culpa del remate.
 
-## Sobre las reseñas
+## Lo que dicen de mí en Google
 
-Te lo digo tal cual: llevo desde 2012 trabajando pero no empecé a pedir reseñas hasta hace poco, así que no tengo muchas todavía en el [perfil de Google](https://www.google.com/search?q=PintaReformas+Granada). Prefiero decírtelo a la cara que ponerte números que no son reales. Cuando terminemos tu obra, si te ha parecido bien, te pediré que dejes la tuya — y si no, también, para saber qué puedo mejorar.
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+
+★★★★★
+
+"Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"
+
+Jesús Mingorance Reseña publicada en Google
+
+★★★★★
+
+"Buen pintor, es muy profesional y puntual."
+
+Mohamed Elmekri Reseña publicada en Google
+
+[Ver todas mis reseñas en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo)[Déjame la tuya](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 PintaReformas © 2026 | Pintura, tabiques y falsos techos en Nerja
 [Volver a inicio](https://pintareformas.es/) | [Blog](https://pintareformas.es/placas-yeso-cocinas.html) | [FAQ](https://pintareformas.es/preguntas-pintor-granada.html)
